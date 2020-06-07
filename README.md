@@ -4,6 +4,10 @@
 
 ### A cargo de María Lucía Pappaterra
 
+A través de este repositorio se publicarán los prácticos y se realizarán las entregas de los mismos.
+
+------------------------------------------------------------------------------------------------------
+
 Trabajaremos con la base de datos disponible en: 
 
 https://github.com/lucia15/Datos-Covid19-Argentina
