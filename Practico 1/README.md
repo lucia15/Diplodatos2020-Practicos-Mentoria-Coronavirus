@@ -18,10 +18,12 @@ Seleccionar al menos **tres** variables y graficar como fueron cambiando desde e
 
 Con al menos **un** par de variables realizar un análisis de este tipo.
 
+Pueden agregar más análisis que consideren relevantes, estos tres puntos son el mínimo requerido.
+
 ### Entregas:
 
 + Un **breve informe** en el cual desarrollen cada uno de los puntos anteriores. 
-En el mismo deben incluir solo los gráficos pedidos y las conclusiones que de ellos se desprendan. No agregar código al informe. 
+En el mismo deben incluir solo los gráficos y resultados obtenidos y las conclusiones que de ellos se desprendan. No agregar código al informe. 
 
-+ Una **Notebook** que refleje el trabajo que estuvieron haciendo (aquí se verá el código). 
-Puede ser esta misma notebook intervenida por ustedes, u otra nueva que inicien, como les resulte más cómodo trabajar.
++ Una **notebook** que refleje el trabajo realizado (aquí se verá el código). 
+Puede ser la notebook aquí presentada intervenida por ustedes, u otra nueva que inicien, como les resulte más cómodo trabajar.
