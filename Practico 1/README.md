@@ -1,22 +1,27 @@
 # Práctico 1: Análisis y Visualización
 
-### Objetivos: 
-Uso de estadísticas descriptivas para el análisis del set de datos. 
-Responder a distintas preguntas generales respecto al dataset, por ejemplo:
+### Tareas a realizar
 
-+ Cantidad de infectados (nuevos y totales, recuperados, fallecidos) por región (país o provincia) por día
-+ Proporción de casos importados, locales y comunitarios en Argentina
-+ Cantidad de testeos cada 100 mil habitantes, proporción positivos/negativos, negativos acumulados
-+ Diferencia entre las distintas provincias en el caso de Argentina
++ Análisis estadístico de variables.
 
-Determinar la tasa de ocurrencia de algún fenómeno, por ejemplo:
+Seleccionar un conjunto de al menos **cuatro** variables que les resulten de interés y:
 
-+ Tasas de contagio, testeo, mortalidad, hospitalización, recuperación
-+ Tasa de mortalidad por país y por provincia (Argentina)
+1.   Usar distintos tipos de gráficos para describir sus distribuciones
+2.   Analizar Outliers (si los hubiera)
+3.   Calcular estadísticos clásicos (media, mediana, moda, desviación estandar)
 
-Señalar si existe correlación entre dos o más variables, por ejemplo:
-+ Entre mortalidad y distintas comorbilidades
++ Evolución de variables en el tiempo.
 
-Estudiar la distribución de alguna variable de interés, por ejemplo:
-+ Distribución etaria de los infectados y fallecidos
-+ Clasificación por género y posibles diferencias del impacto del virus en cada uno
+Seleccionar al menos **tres** variables y graficar como fueron cambiando desde el primer día hasta hoy.
+
++ Analisis de probabilidades condicionales e independencia entre dos variables.
+
+Con al menos **un** par de variables realizar un análisis de este tipo.
+
+### Entregas:
+
++ Un **breve informe** en el cual desarrollen cada uno de los puntos anteriores. 
+En el mismo deben incluir solo los gráficos pedidos y las conclusiones que de ellos se desprendan. No agregar código al informe. 
+
++ Una **Notebook** que refleje el trabajo que estuvieron haciendo (aquí se verá el código). 
+Puede ser esta misma notebook intervenida por ustedes, u otra nueva que inicien, como les resulte más cómodo trabajar.
