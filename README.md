@@ -34,6 +34,7 @@ Determinar la tasa de ocurrencia de algún fenómeno, por ejemplo:
 
 Señalar si existe correlación entre dos o más variables, por ejemplo:
 + Entre mortalidad y distintas comorbilidades
++ Entre edad de los fallecidos y la provincia
 
 Estudiar la distribución de alguna variable de interés, por ejemplo:
 + Distribución etaria de los infectados y fallecidos
