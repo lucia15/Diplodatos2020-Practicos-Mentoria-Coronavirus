@@ -14,7 +14,7 @@ Seleccionar un conjunto de al menos **cuatro** variables que les resulten de int
 
 Seleccionar al menos **tres** variables y graficar como fueron cambiando desde el primer día hasta hoy.
 
-+ Analisis de probabilidades condicionales e independencia entre dos variables.
++ Análisis de probabilidades condicionales e independencia entre dos variables.
 
 Con al menos **un** par de variables realizar un análisis de este tipo.
 
