@@ -27,3 +27,4 @@ En el mismo deben incluir solo los gráficos y resultados obtenidos y las conclu
 
 + Una **notebook** que refleje el trabajo realizado (aquí se verá el código). 
 Puede ser la notebook aquí presentada intervenida por ustedes, u otra nueva que inicien, como les resulte más cómodo trabajar.
+No les voy a corregir el código en detalle, es para tener una idea de cómo fue el proceso.
