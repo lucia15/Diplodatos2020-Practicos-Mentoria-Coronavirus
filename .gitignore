@@ -5,9 +5,6 @@ Practico 3
 Practico 4
 Practico 5
 
-# Ignorar imagenes png 
-*.png
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
