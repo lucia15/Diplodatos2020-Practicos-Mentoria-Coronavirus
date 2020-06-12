@@ -1,9 +1,11 @@
 # Ignorar carpetas con prácticos aún no publicados
-Practico 1/Notebooks-Mentor
 Practico 2
 Practico 3
 Practico 4
 Practico 5
+
+# Ignorar notebooks privadas del mentor
+Notebooks-Mentor
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
