@@ -22,8 +22,8 @@ por ejemplo: https://github.com/SistemasMapache/Covid19arData
 
 ### Tareas a realizar:
 
-* Detectar al menos **tres** variables con valores faltantes no triviales. Decidir si eliminarlos o computarlos,
-investigar los métodos disponibles en pandas para dichos fines.
+* Detectar al menos **tres** variables con valores faltantes no triviales. 
+Decidir qué tratamiento darles (eliminarlos, computarlos, etc.), investigar los métodos disponibles en pandas para dichos fines.
 
 * Detectar al menos **cinco** inconsistencias en los datos, discutir a qué se deben y si podemos solucionarlas.
  
