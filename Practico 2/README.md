@@ -20,7 +20,7 @@ Una buena idea puede ser compararlo con otros dataset similares,
 por ejemplo: https://github.com/SistemasMapache/Covid19arData
 
 
-### Tareas a realizar
+### Tareas a realizar:
 
 * Detectar al menos **tres** variables con valores faltantes no triviales, investigar posibles métodos para completarlos.
 
