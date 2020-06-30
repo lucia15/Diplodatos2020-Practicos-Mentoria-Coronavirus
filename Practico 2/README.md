@@ -32,7 +32,8 @@ investigar los métodos disponibles en pandas para dichos fines.
 * Bonus (solo si tienen ganas y tiempo): Debatir: 
 ¿Hay variables que son redundantes o solo agregan ruido? ¿Las eliminarían? 
 ¿Agregarían otras variables que puedan ser de utilidad? ¿Pueden generar nuevas variables a partir de las existentes? 
-Por ejemplo, transformando, escalando o combinando variables existentes.
+Por ejemplo, transformando, escalando o combinando variables existentes. 
+Contrastar con otras fuentes (otros datasets, reportes provinciales, prensa) si la información es correcta.
 Comparar el dataset con otros similares, ¿cuáles son las semejanzas y diferencias? ¿consideran las mismas variables o equivalentes? 
 ¿hay información contradictoria?... O cualquier otro interrogante que les surja en torno a estos datos.
 
