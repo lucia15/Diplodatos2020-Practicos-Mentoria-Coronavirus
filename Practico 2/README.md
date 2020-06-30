@@ -24,15 +24,21 @@ por ejemplo: https://github.com/SistemasMapache/Covid19arData
 
 * Detectar al menos **tres** variables con valores faltantes no triviales, investigar posibles métodos para completarlos.
 
-* Detectar al menos **cinco** inconsistencias en los datos, discutir a qué se deben y qué podemos hacer con ellas.
+* Detectar al menos **cinco** inconsistencias en los datos, discutir a qué se deben y si podemos solucionarlas.
  
 * Elegir al menos **una** variable que tenga outliers, debatir y decidir qué hacer con los mismos.
+
+* Bonus (si tienen tiempo): Debatir: ¿Hay variables que son redundantes o solo agregan ruido? ¿Las eliminarían? 
+¿Agregarían otras variables que puedan ser de utilidad? ¿Pueden generar nuevas variables a partir de las existentes?
+Comparar el dataset con otros similares, ¿cuáles son las semejanzas y diferencias? ¿consideran las mismas variables o equivalentes? 
+¿hay información contradictoria?
 
 ### Entregas:
 
 + Un **brevísimo informe** (entre una y dos páginas) en el cual expliquen con sus palabras qué encontraron, 
 cómo interpretaron y qué soluciones proponen y/o aplicaron. 
-Pueden agregar con sinceridad las observaciones que tengan sobre la consistencia y calidad de los datos (me sería de gran ayuda!)
+Pueden agregar con total sinceridad las observaciones que tengan sobre la consistencia y calidad de los datos, 
+comparación con otros datasets, etc. (me sería de gran ayuda!)
 
 + El o los **data sets modificados** con los cambios propuestos (limpios y curados).
 
