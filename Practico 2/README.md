@@ -32,7 +32,7 @@ por ejemplo: https://github.com/SistemasMapache/Covid19arData
 
 + Un **brevísimo informe** (entre una y dos páginas) en el cual expliquen con sus palabras qué encontraron, 
 cómo interpretaron y qué soluciones proponen y/o aplicaron. 
-Pueden agregar con sinceridad las observaciones que tengan sobre la consistencia y calidad de los datos que consideren pertinentes (me sería de gran ayuda!)
+Pueden agregar con sinceridad las observaciones que tengan sobre la consistencia y calidad de los datos (me sería de gran ayuda!)
 
 + El o los **data sets modificados** con los cambios propuestos (limpios y curados).
 
