@@ -17,6 +17,8 @@ Revisen el modelo propuesto y luego discutan/ debatan/ respondan/ propongan:
  + Probar el modelo para distintos valores de: 
     - la variable (*casos_total*, *casos_nuevos*, *muertes_total* y *muertes_nuevos*) 
     - la distancia (*DTW*, *soft-DTW*, ...)
+    
+
  Tener en cuenta en cada caso cuál sería el k óptimo.
  Quizás sea conveniente tener las variables por cada millón de habitantes en cada provincia (quizás el modelo mejora, prueben!!).
  La idea es encontrar el modelo que produzca la mejor agrupación posible de provincias. 
